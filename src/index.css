@@ -1,0 +1,7 @@
+/* Base reset - keep minimal since App.css has main styles */
+:root {
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
